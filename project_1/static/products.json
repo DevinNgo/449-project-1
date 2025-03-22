@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "DVN1 GLASS",
+        "price": 20,
+        "stock": 465,
+        "image": "../static/glasses1.png"
+    },
+    {
+        "id": 2,
+        "name": "DVN2 GLASS",
+        "price": 25,
+        "stock": 436,
+        "image": "../static/glasses2.png"
+    },
+    {
+        "id": 3,
+        "name": "DVN3 GLASS",
+        "price": 30,
+        "stock": 423,
+        "image": "../static/glasses3.png"
+    },
+    {
+        "id": 4,
+        "name": "KNY1 GLASS",
+        "price": 40,
+        "stock": 153,
+        "image": "../static/glasses4.png"
+    },
+    {
+        "id": 5,
+        "name": "KNY2 GLASS",
+        "price": 60,
+        "stock": 296,
+        "image": "../static/glasses5.png"
+    },
+    {
+        "id": 6,
+        "name": "KNY3 GLASS",
+        "price": 90,
+        "stock": 345,
+        "image": "../static/glasses6.png"
+    },
+    {
+        "id": 7,
+        "name": "NTN1 GLASS",
+        "price": 95,
+        "stock": 191,
+        "image": "../static/glasses7.png"
+    },
+    {
+        "id": 8,
+        "name": "NTN2 GLASS",
+        "price": 120,
+        "stock": 376,
+        "image": "../static/glasses8.png"
+    },
+    {
+        "id": 9,
+        "name": "NTN3 GLASS",
+        "price": 135,
+        "stock": 399,
+        "image": "../static/glasses9.png"
+    }
+]
